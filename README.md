@@ -1,6 +1,6 @@
 # PA17.1_BankMarketing
 Practical Application Assignment 17.1: Comparing Classifiers
-Link to Notebook: 
+Link to Notebook: [MG_PA_Prompt_III.ipynb](https://github.com/maha0491/PA17.1_BankMarketing/blob/2305bec50de162b952e7f7d9ffd4ce086f58e832/MG_PA_Prompt_III.ipynb)
 
 To whom it may concern,
 
